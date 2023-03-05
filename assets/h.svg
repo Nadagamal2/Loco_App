@@ -1,0 +1,11 @@
+<svg id="Icon_Alert" xmlns="http://www.w3.org/2000/svg" width="19.54" height="19.54" viewBox="0 0 19.54 19.54">
+  <g id="message-2-line">
+    <path id="Path_34" data-name="Path 34" d="M19.54,0H0V19.54H19.54Z" fill="none"/>
+    <path id="Path_35" data-name="Path 35" d="M14.078,15.341l3.462,2.7V3.771A.774.774,0,0,0,16.763,3H2.777A.774.774,0,0,0,2,3.771v10.8a.774.774,0,0,0,.777.771Zm.538-1.543H3.554V4.543H15.986V14.866ZM10.547,8.4H8.993V9.942h1.554Zm3.108,0H12.1V9.942h1.554Zm-6.216,0H5.885V9.942H7.439Z"/>
+    <g id="Ellipse_304" data-name="Ellipse 304" transform="translate(5.04 7.54)" fill="#edfbf4" stroke="#edfbf4" stroke-width="1">
+      <ellipse cx="5" cy="2" rx="5" ry="2" stroke="none"/>
+      <ellipse cx="5" cy="2" rx="4.5" ry="1.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_8622" data-name="Rectangle 8622" width="9" height="2" rx="1" transform="translate(5.04 8.54)" fill="#f9763b"/>
+  </g>
+</svg>

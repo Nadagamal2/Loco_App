@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.048" height="108" viewBox="0 0 88.048 108">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9b60"/>
+      <stop offset="1" stop-color="#ff6b13"/>
+    </linearGradient>
+    <filter id="Rectangle" x="0" y="0" width="88.048" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_54344" data-name="Group 54344" transform="translate(-67.951 -828.5)">
+    <g id="System_Tabbar" data-name="System/Tabbar" transform="translate(73.951 832.5)">
+      <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Rectangle)">
+        <path id="Rectangle-2" data-name="Rectangle" d="M10,0H66.048a10,10,0,0,1,10,10V96a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(6 4)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="notification-3-line" transform="translate(96 865.363)">
+      <path id="Path_9" data-name="Path 9" d="M0,0H30.24V30.24H0Z" fill="none"/>
+      <path id="Path_10" data-name="Path 10" d="M24.032,20.514H26.48v2.469H2V20.514H4.448v-8.64a9.792,9.792,0,1,1,19.584,0Zm-2.448,0v-8.64a7.344,7.344,0,1,0-14.688,0v8.64ZM10.568,25.451h7.344V27.92H10.568Z" transform="translate(0.88 0.88)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

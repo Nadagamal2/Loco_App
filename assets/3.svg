@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.048" height="108" viewBox="0 0 88.048 108">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9b60"/>
+      <stop offset="1" stop-color="#ff6b13"/>
+    </linearGradient>
+    <filter id="Rectangle" x="0" y="0" width="88.048" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_54348" data-name="Group 54348" transform="translate(-8.952 -712.5)">
+    <g id="Bitmap_Copy" data-name="Bitmap Copy" transform="translate(0 -19.5)">
+      <g id="Group_54345" data-name="Group 54345">
+        <g id="System_Tabbar" data-name="System/Tabbar" transform="translate(14.952 736)">
+          <g id="Stockholm_icons_Devices_Mic_Copy" data-name="Stockholm icons / Devices / Mic Copy" transform="translate(272)">
+            <g transform="matrix(1, 0, 0, 1, -278, -4)" filter="url(#Rectangle)">
+              <path id="Rectangle-2" data-name="Rectangle" d="M10,0H66.048a10,10,0,0,1,10,10V96a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(6 4)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="user_icon" data-name="user icon" transform="translate(39.787 752.342)">
+      <path id="Shape" d="M24.233,9.087V6.058A6.058,6.058,0,0,0,18.174,0H6.058A6.058,6.058,0,0,0,0,6.058V9.087" transform="translate(0 18.174)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <circle id="Oval" cx="6.058" cy="6.058" r="6.058" transform="translate(6.058)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
